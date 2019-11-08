@@ -1,2 +1,5 @@
 # dotfiles
-At long last... mv's dotfiles :)
+
+> My dotfiles
+
+Currently a WIP.
