@@ -1,5 +1,6 @@
 [general]
 "git/gitconfig" = "~/.gitconfig"
 "git/gitignore" = "~/.gitignore"
+"vim/vimrc"     = "~/.vimrc"
 "zsh/starship.toml"  = "~/.config/starship.toml"
 "zsh/zshrc"     = "~/.zshrc"

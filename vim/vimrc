@@ -1,0 +1,43 @@
+" vim configuration
+
+" Specify a directory for plugins
+call plug#begin('~/.vim/plugged')
+
+Plug 'airblade/vim-gitgutter'   " Display git changes
+Plug 'djjcast/mirodark'         " Colorscheme
+Plug 'lotabout/skim', { 'dir': '~/.skim', 'do': './install' }
+Plug 'rust-lang/rust.vim'
+Plug 'tpope/vim-fugitive'       " Git blame support
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+
+" Initialize plugin system
+call plug#end()
+
+colorscheme mirodark
+set background=dark
+
+" Tab width to two spaces
+set tabstop=2 shiftwidth=2 expandtab
+
+" Cursor highlights current line
+set cursorline
+
+set hlsearch
+highlight ExtraWhitespace ctermbg=darkgreen guibg=darkgreen
+
+set number
+" Do not add $ at the end of lines
+set nolist
+
+" Remove trailing whitespace on write
+autocmd BufWritePre * :%s/\s\+$//e
+
+" Add spell check
+set spell
+
+" Mark the 80 character limit
+set colorcolumn=80
+
+" Map control-p to skim in normal mode
+map <C-p> :SK<CR>
