@@ -16,4 +16,10 @@ curl -L https://github.com/ubnt-intrepid/dot/releases/download/v0.1.4/dot-v0.1.4
 
 # Install
 
-TODO
+```shell
+# Check if all symlinks have been created
+dot check
+
+# Create symlinks based on `.mappings`
+dot link
+```
