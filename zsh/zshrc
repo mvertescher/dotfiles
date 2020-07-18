@@ -1,0 +1,9 @@
+# zsh configuration
+
+# Enabled skim fuzzy finder
+source /usr/share/skim/completion.zsh
+source /usr/share/skim/key-bindings.zsh
+
+# Start the starship prompt
+# Can be updated via `cargo install starship --force`
+eval "$(starship init zsh)"
