@@ -1,2 +1,7 @@
 # Don't print a new line at the start of the prompt
 add_newline = false
+
+[git_status]
+# This can be _very_ slow for larger repos, so disable
+disabled = true
+
