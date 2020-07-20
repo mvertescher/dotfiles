@@ -1,4 +1,5 @@
 [general]
+"aliases"           = "~/.aliases"
 "git/gitconfig"     = "~/.gitconfig"
 "git/gitignore"     = "~/.gitignore"
 "tmux/tmux.conf"    = "~/.tmux.conf"

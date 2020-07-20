@@ -1,0 +1,4 @@
+#!/bin/sh
+
+alias gits="git status"
+alias s="stg"

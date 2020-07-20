@@ -4,6 +4,9 @@
 source /usr/share/skim/completion.zsh
 source /usr/share/skim/key-bindings.zsh
 
+# Source aliases
+source $HOME/.aliases
+
 # Start the starship prompt
 # Can be updated via `cargo install starship --force`
 eval "$(starship init zsh)"
