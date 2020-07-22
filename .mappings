@@ -2,6 +2,7 @@
 "aliases"           = "~/.aliases"
 "git/gitconfig"     = "~/.gitconfig"
 "git/gitignore"     = "~/.gitignore"
+"i3/config"         = "~/.config/i3/config"
 "tmux/tmux.conf"    = "~/.tmux.conf"
 "vim/vimrc"         = "~/.vimrc"
 "zsh/starship.toml" = "~/.config/starship.toml"
