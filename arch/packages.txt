@@ -4,6 +4,7 @@ arch-wiki-lite
 autoconf
 autofs
 automake
+balena-cli
 base
 bc
 bison
@@ -27,6 +28,7 @@ htop
 i3-wm
 icoutils
 jfsutils
+libreoffice-fresh
 libvdpau-va-gl
 logrotate
 man-db
@@ -51,6 +53,7 @@ rsync
 skim
 slack-desktop
 spotify
+stgit
 sudo
 texlive-bibtexextra
 texlive-fontsextra
@@ -74,6 +77,7 @@ wine-gecko
 wine-mono
 winetricks
 wireless_tools
+wireshark-qt
 xdg-user-dirs-gtk
 xf86-video-intel
 xorg-bdftopcf
