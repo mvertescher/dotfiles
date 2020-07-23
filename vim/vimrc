@@ -31,7 +31,7 @@ set number
 set nolist
 
 " Remove trailing whitespace on write
-autocmd BufWritePre * :%s/\s\+$//e
+" autocmd BufWritePre * :%s/\s\+$//e
 
 " Add spell check
 set spell
