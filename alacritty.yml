@@ -1,0 +1,4 @@
+# Alacritty terminal configuration
+
+shell:
+  program: /usr/bin/zsh
