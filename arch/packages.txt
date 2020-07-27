@@ -23,6 +23,7 @@ firefox-i18n-en-us
 flameshot
 flex
 gnome-defaults-list
+google-chrome
 grub
 htop
 i3-wm
