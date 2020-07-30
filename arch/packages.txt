@@ -1,5 +1,4 @@
 alacritty
-alsa-utils
 arch-wiki-lite
 autoconf
 autofs
@@ -17,7 +16,6 @@ docker
 evince
 exfat-utils
 f2fs-tools
-fakeroot
 fd
 firefox-i18n-en-us
 flameshot
@@ -27,6 +25,7 @@ google-chrome
 grub
 htop
 i3-wm
+i3status-rust
 icoutils
 jfsutils
 libreoffice-fresh
@@ -51,6 +50,7 @@ pavucontrol
 pkgconf
 pkgstats
 rsync
+rust
 skim
 slack-desktop
 spotify
