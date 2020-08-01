@@ -4,6 +4,7 @@
 call plug#begin('~/.vim/plugged')
 
 Plug 'airblade/vim-gitgutter'   " Display git changes
+Plug 'arcticicestudio/nord-vim' " Colorscheme
 Plug 'djjcast/mirodark'         " Colorscheme
 Plug 'lotabout/skim', { 'dir': '~/.skim', 'do': './install' }
 Plug 'rust-lang/rust.vim'
@@ -14,7 +15,7 @@ Plug 'vim-airline/vim-airline-themes'
 " Initialize plugin system
 call plug#end()
 
-colorscheme mirodark
+colorscheme nord
 set background=dark
 
 " Tab width to two spaces
