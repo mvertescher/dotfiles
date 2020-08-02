@@ -1,4 +1,5 @@
 [general]
+"Xresources"                = "~/.Xresources"
 "alacritty.yml"             = "~/.config/alacritty/alacritty.yml"
 "aliases"                   = "~/.aliases"
 "git/gitconfig"             = "~/.gitconfig"
