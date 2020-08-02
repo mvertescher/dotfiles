@@ -5,7 +5,6 @@ autofs
 automake
 balena-cli
 base
-bc
 bison
 bluez-utils
 code
@@ -51,6 +50,7 @@ pkgconf
 pkgstats
 rsync
 rust
+screenfetch
 skim
 slack-desktop
 spotify
@@ -92,7 +92,6 @@ xorg-x11perf
 xorg-xbacklight
 xorg-xcmsdb
 xorg-xcursorgen
-xorg-xdpyinfo
 xorg-xdriinfo
 xorg-xev
 xorg-xgamma
