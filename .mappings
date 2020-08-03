@@ -8,5 +8,6 @@
 "i3status-rust/config.toml" = "~/.config/i3status-rust/config.toml"
 "tmux/tmux.conf"            = "~/.tmux.conf"
 "vim/vimrc"                 = "~/.vimrc"
+"xinitrc"                   = "~/.xinitrc"
 "zsh/starship.toml"         = "~/.config/starship.toml"
 "zsh/zshrc"                 = "~/.zshrc"
