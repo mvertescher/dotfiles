@@ -13,6 +13,7 @@ ctags
 dmidecode
 docker
 evince
+exa
 exfat-utils
 f2fs-tools
 fd
