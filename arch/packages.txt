@@ -5,6 +5,7 @@ autofs
 automake
 balena-cli
 base
+bat
 bison
 bluez-utils
 code
@@ -68,6 +69,7 @@ texlive-publishers
 texlive-science
 tlp
 tmux
+tokei
 tree
 trizen
 unrar
