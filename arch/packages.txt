@@ -4,6 +4,7 @@ autoconf
 autofs
 automake
 balena-cli
+balena-etcher
 base
 bat
 bison
