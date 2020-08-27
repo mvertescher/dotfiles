@@ -1,4 +1,6 @@
 #!/bin/sh
 
+alias c="bat"
 alias gits="git status"
+alias l="exa -al"
 alias s="stg"
