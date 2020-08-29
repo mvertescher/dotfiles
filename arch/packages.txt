@@ -22,6 +22,7 @@ fd
 firefox-i18n-en-us
 flameshot
 flex
+git-filter-repo
 gnome-defaults-list
 google-chrome
 grub
@@ -69,10 +70,10 @@ texlive-pstricks
 texlive-publishers
 texlive-science
 tlp
-tmux
 tokei
 tree
 trizen
+uhubctl
 unrar
 vi
 vim-plug
@@ -116,4 +117,3 @@ xorg-xwininfo
 xorg-xwud
 zip
 zoom
-zsh
