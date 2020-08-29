@@ -1,0 +1,7 @@
+# Custom udev rules
+# 
+# To reload: `sudo udevadm trigger`
+
+# Disable ID 27c6:5385 Shenzhen Goodix Technology Co.,Ltd. Fingerprint Reader
+SUBSYSTEM=="usb", ATTRS{idVendor}=="27c6", ATTRS{idProduct}=="5385", ATTR{authorized}="0"
+
