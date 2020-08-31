@@ -14,6 +14,7 @@ cpio
 ctags
 dmidecode
 docker
+dust
 evince
 exa
 exfat-utils
