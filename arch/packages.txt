@@ -116,5 +116,6 @@ xorg-xvinfo
 xorg-xwd
 xorg-xwininfo
 xorg-xwud
+ytop
 zip
 zoom
