@@ -24,6 +24,7 @@ firefox-i18n-en-us
 flameshot
 flex
 git-filter-repo
+git-lfs
 gnome-defaults-list
 google-chrome
 grub
