@@ -12,6 +12,7 @@ bluez-utils
 code
 cpio
 ctags
+d-feet
 dmidecode
 docker
 dust
