@@ -8,6 +8,7 @@ balena-etcher
 base
 bat
 bison
+bluez-alsa-git
 bluez-utils
 code
 cpio
@@ -121,3 +122,4 @@ xorg-xwud
 ytop
 zip
 zoom
+zoxide
