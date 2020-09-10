@@ -33,6 +33,9 @@ source /usr/share/skim/key-bindings.zsh
 # Source aliases
 source $HOME/.aliases
 
+# Add binaries installed via cargo to the path
+export PATH="/home/$USER/.cargo/bin:$PATH"
+
 # Start the starship prompt
 # Can be updated via `cargo install starship --force`
 eval "$(starship init zsh)"
