@@ -32,6 +32,7 @@ google-chrome
 gptfdisk
 grub
 htop
+hyperfine-git
 i3-wm
 i3status-rust
 icoutils
