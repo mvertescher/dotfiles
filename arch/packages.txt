@@ -16,6 +16,7 @@ ctags
 d-feet
 dmidecode
 docker
+dua-cli
 dust
 evince
 exa
