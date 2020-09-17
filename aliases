@@ -4,3 +4,8 @@ alias c="bat"
 alias gits="git status"
 alias l="exa -al"
 alias s="stg"
+
+# openssl aliases
+alias print-crt="openssl x509 -noout -text -in"
+alias print-csr="openssl req -noout -text -in"
+
