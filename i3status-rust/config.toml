@@ -1,5 +1,7 @@
 theme = "solarized-dark"
-icons = "awesome"
+
+[icons]
+name = "awesome5"
 
 [[block]]
 block = "disk_space"
@@ -31,7 +33,7 @@ block = "sound"
 
 [[block]]
 block = "xrandr"
-icons = true
+icons = false
 resolution = true
 interval = 2
 
