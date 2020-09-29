@@ -42,3 +42,8 @@ block = "time"
 interval = 60
 format = "%a %d/%m %R"
 
+[[block]]
+block = "battery"
+interval = 10
+format = "{percentage}% {time}"
+
