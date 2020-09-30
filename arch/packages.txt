@@ -29,6 +29,7 @@ flex
 git-filter-repo
 git-lfs
 gnome-defaults-list
+go-ipfs
 google-chrome
 gptfdisk
 grub
