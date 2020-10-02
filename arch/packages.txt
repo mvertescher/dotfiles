@@ -66,6 +66,7 @@ pavucontrol
 pkgconf
 pkgstats
 rsync
+rustscan
 rustup
 screenfetch
 skim
