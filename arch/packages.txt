@@ -86,6 +86,7 @@ texlive-publishers
 texlive-science
 tlp
 tokei
+traceroute
 tree
 trizen
 uhubctl
